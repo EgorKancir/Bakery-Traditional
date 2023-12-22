@@ -33,7 +33,7 @@ h1, h2 ,h3, h4, h5, p, ul, ol, li {
     --light-black: #272727;
     --white-color-text: #FFF;
     --black-color-text-modal: #000;
-    --gold-color-text-hover: rgb(194, 177, 22);
+    --gold-color-text-hover: rgb(179, 179, 165);
 }
 /* Section 1 shop */
 .shop {
@@ -188,7 +188,7 @@ h1, h2 ,h3, h4, h5, p, ul, ol, li {
     border: none;
 }
 .shop__modal_form-btn {
-    padding: 16px 34px 7px 34px;
+    padding: 11.5px 34px 11.5px 34px;
     border-radius: 17px;
     background-color: var(--background-color-modal-submit);
     color: var(--background-color-modal);
@@ -219,7 +219,7 @@ button {
     z-index: 10;
 }
 .shop__modal_btn {
-    padding: 16px 34px 7px 34px;
+    padding: 11.5px 34px 11.5px 34px;
     border-radius: 17px;
     background: var(--background-color-modal-submit);
     color: var(--background-color-modal);
